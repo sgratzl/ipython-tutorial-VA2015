@@ -1,0 +1,5 @@
+#python dependencies
+numpy
+pandas
+seaborn
+sklearn
